@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Programming Languages",
+    "imageSrc": "skills/programmingLangImg.jpg",
+    "description": "I do know some of the programming languages",
+    "skills": ["PYTHON", "JAVA-SCRIPT", "JAVA"]
+  },
+  {
+    "title": "Front End Dev",
+    "imageSrc": "skills/frontendImage.jpg",
+    "description": "I do prefer to do Front End Dev in",
+    "skills": ["HTML","CSS","JAVA-SCRIPT", "REACT"]
+  },
+  {
+    "title": "Back End Dev",
+    "imageSrc": "skills/backendImage.jpg",
+    "description": "I do prefer to do Back End Dev in",
+    "skills": ["NODE.JS", "EXPRESS.JS", "MONGODB"]
+  }
+]
